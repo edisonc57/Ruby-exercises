@@ -1,0 +1,2 @@
+filosofo = "Socrates"
+puts (filosofo)
